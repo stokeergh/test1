@@ -1,5 +1,858 @@
 [
   {
+    "id": 595,
+    "name": "Soul Gem",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=1",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 0
+    },
+    "isCraftable": true,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 596,
+    "name": "Soul Thread",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=1",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 3,
+          "id": 595,
+          "name": "Soul Gem"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 0
+    },
+    "isCraftable": true,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 597,
+    "name": "Apprentice Gloves",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=1",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 100
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 598,
+    "name": "Apprentice Helm",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=2",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 100
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 599,
+    "name": "Apprentice Boots",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=3",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 100
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 600,
+    "name": "Apprentice Legs",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=4",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 100
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 601,
+    "name": "Apprentice Top",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=4",
+    "category": "Equipment",
+    "rarity": "Common",
+    "recipe": {
+      "level": "Level 1 Crafting",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 100
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 602,
+    "name": "Master Gloves",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=6",
+    "category": "Equipment",
+    "rarity": "Rare",
+    "recipe": {
+      "level": "Level 50 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 597,
+          "name": "Apprentice Gloves"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 300
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 603,
+    "name": "Master Boots",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=7",
+    "category": "Equipment",
+    "rarity": "Rare",
+    "recipe": {
+      "level": "Level 50 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 599,
+          "name": "Apprentice Boots"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 300
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 604,
+    "name": "Master Helm",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=7",
+    "category": "Equipment",
+    "rarity": "Rare",
+    "recipe": {
+      "level": "Level 50 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 598,
+          "name": "Apprentice Helm"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 300
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 605,
+    "name": "Master Legs",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=8",
+    "category": "Equipment",
+    "rarity": "Rare",
+    "recipe": {
+      "level": "Level 50 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 2,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 600,
+          "name": "Apprentice Legs"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 300
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 606,
+    "name": "Master Top",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=5",
+    "category": "Equipment",
+    "rarity": "Rare",
+    "recipe": {
+      "level": "Level 50 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 3,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 601,
+          "name": "Apprentice Top"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 300
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 607,
+    "name": "Primal Gloves",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=9",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 35,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 602,
+          "name": "Master Gloves"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 608,
+    "name": "Primal Boots",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=9",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 30,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 603,
+          "name": "Master Boots"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 609,
+    "name": "Primal Helm",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=9",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 40,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 604,
+          "name": "Master Helm"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 610,
+    "name": "Primal Legs",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=9",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 45,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 605,
+          "name": "Master Legs"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 611,
+    "name": "Primal Top",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=9",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 50,
+          "id": 596,
+          "name": "Soul Thread"
+        },
+        {
+          "amount": 1,
+          "id": 606,
+          "name": "Master Top"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 612,
+    "name": "Dragonhide Boots",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=10",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 2,
+          "id": 75,
+          "name": "Dragon Plate"
+        },
+        {
+          "amount": 6,
+          "id": 74,
+          "name": "Dragon Leather"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 613,
+    "name": "Dragonhide Gloves",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=10",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 2,
+          "id": 75,
+          "name": "Dragon Plate"
+        },
+        {
+          "amount": 6,
+          "id": 74,
+          "name": "Dragon Leather"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 614,
+    "name": "Dragonhide Helm",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=10",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 2,
+          "id": 75,
+          "name": "Dragon Plate"
+        },
+        {
+          "amount": 8,
+          "id": 74,
+          "name": "Dragon Leather"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 615,
+    "name": "Dragonhide Legs",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=10",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 3,
+          "id": 75,
+          "name": "Dragon Plate"
+        },
+        {
+          "amount": 10,
+          "id": 74,
+          "name": "Dragon Leather"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
+    "id": 616,
+    "name": "Dragonhide Top",
+    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=10",
+    "category": "Equipment",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "Level 90 Crafting",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 75,
+          "name": "Dragon Plate"
+        },
+        {
+          "amount": 15,
+          "id": 74,
+          "name": "Dragon Leather"
+        }
+      ]
+    },
+    "description": "No description",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "value": 500
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    }
+  },
+  {
     "id": 565,
     "name": "Crown of the Gods",
     "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=565",
