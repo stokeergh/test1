@@ -1,5 +1,618 @@
 [
   {
+    "id": 637,
+    "name": "Divine Protection Scroll",
+    "OfficialWiki": null,
+    "category": "Skilling Scroll",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I can unlock the ability to brew Divine Protection Potions with this scroll",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 100000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 636,
+    "name": "Divine Protection Potion",
+    "OfficialWiki": null,
+    "category": "Potion",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "Level 130 Alchemy",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1500,
+          "id": 105,
+          "name": "Gold Coin"
+        },
+        {
+          "amount": 1,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 1,
+          "id": 366,
+          "name": "Kings Armour Fragment"
+        },
+        {
+          "amount": 5,
+          "id": 334,
+          "name": "Ember Fern"
+        }
+      ]
+    },
+    "description": "Grants me help from the gods during battle.\n- Deals 1% of the targets max health as damage every second while in combat for 60 seconds.\n- Gives a 25% chance to double damage dealt.\n- Gives a 25% chance to reduce incoming damage to 0.",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 100000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 635,
+    "name": "Skull Shield",
+    "OfficialWiki": null,
+    "category": "Shield",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I call upon the previous owner of this skull to help me in battle",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1000,
+      "health": 5000,
+      "heal": 0,
+      "value": 15000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 634,
+    "name": "Pumpkin Pie Recipe Scroll",
+    "OfficialWiki": null,
+    "category": "Skilling Scroll",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I can unlock the ability to make Pumpkin Pie with this scroll",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 50000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 633,
+    "name": "Staff of Skulls",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I can now harness the power of the undead",
+    "stats": {
+      "attack": 1000,
+      "strength": 1000,
+      "defence": 1000,
+      "health": 5000,
+      "heal": 0,
+      "value": 25000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 632,
+    "name": "Burnt Pumpkin Pie",
+    "OfficialWiki": null,
+    "category": "Junk",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "Oops",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 631,
+    "name": "Pumpkin Pie",
+    "OfficialWiki": null,
+    "category": "Food",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "Level 130 Cooking",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 630,
+          "name": "Pumpkin"
+        },
+        {
+          "amount": 1,
+          "id": 86,
+          "name": "Egg"
+        },
+        {
+          "amount": 1,
+          "id": 317,
+          "name": "Bag of Flour"
+        },
+        {
+          "amount": 1,
+          "id": 147,
+          "name": "Milk"
+        }
+      ]
+    },
+    "description": "Super hearty healing me for 100% of my health",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 500000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 630,
+    "name": "Pumpkin",
+    "OfficialWiki": null,
+    "category": "Crafting Material",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "This would make an awesome Pie",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 100000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 629,
+    "name": "Ghostly Hood",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "The enemy can not hit what they can not see",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1000,
+      "health": 3000,
+      "heal": 0,
+      "value": 2000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 628,
+    "name": "Ghostly Legs",
+    "OfficialWiki": null,
+    "category": "Greaves",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "The enemy can not hit what they can not see",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1000,
+      "health": 3000,
+      "heal": 0,
+      "value": 3000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 627,
+    "name": "Ghostly Top",
+    "OfficialWiki": null,
+    "category": "Top",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "The enemy can not hit what they can not see",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1500,
+      "health": 4500,
+      "heal": 0,
+      "value": 4000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 626,
+    "name": "Ghostly Cloak",
+    "OfficialWiki": null,
+    "category": "Cape",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "The enemy can not hit what they can not see",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 2000,
+      "health": 6000,
+      "heal": 0,
+      "value": 5000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 625,
+    "name": "Necklace of Amaran",
+    "OfficialWiki": null,
+    "category": "Necklace",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A necklace worn by the god of Health",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 3500,
+      "health": 30000,
+      "heal": 0,
+      "value": 60000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 624,
+    "name": "Blessed Eternal Sacrifice",
+    "OfficialWiki": null,
+    "category": "Necklace",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 10,
+          "id": 623,
+          "name": "Blessed Sacrifice"
+        },
+        {
+          "amount": 15,
+          "id": 459,
+          "name": "Necklace of Restoration"
+        },
+        {
+          "amount": 25,
+          "id": 319,
+          "name": "Cauldron"
+        }
+      ]
+    },
+    "description": "A huge damage increase at a cost (Created by Blessed)",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 25000,
+      "heal": 0,
+      "value": 10000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 623,
+    "name": "Blessed Sacrifice",
+    "OfficialWiki": null,
+    "category": "Necklace",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A huge damage increase at a cost (Created by Blessed)",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 15000,
+      "heal": 0,
+      "value": 1000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
     "id": 622,
     "name": "Dragonhide Top",
     "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=622",
