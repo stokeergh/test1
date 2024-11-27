@@ -1,5 +1,42 @@
 [
   {
+    "id": 638,
+    "name": "Enchancement Ticket",
+    "OfficialWiki": null,
+    "category": "Crafting Material",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 0,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
     "id": 637,
     "name": "Divine Protection Scroll",
     "OfficialWiki": null,
@@ -851,6 +888,43 @@
       "Thieving": false
     },
     "craftX": "YES"
+  },
+  {
+    "id": 617,
+    "name": "Ring of Souls",
+    "OfficialWiki": null,
+    "category": "Ring",
+    "rarity": "Secret Rare",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "Who needs a Slayer master when I have myself",
+    "stats": {
+      "attack": 100,
+      "strength": 100,
+      "defence": 100,
+      "health": 300,
+      "heal": 0,
+      "value": 500000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
   },
   {
     "id": 616,
@@ -2013,9 +2087,30 @@
     "category": "Ring",
     "rarity": "Secret Rare",
     "recipe": {
-      "level": "",
+      "level": "Level 130 Crafting",
       "yield": 1,
-      "ingredients": []
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 492,
+          "name": "Eternal Ring"
+        },
+        {
+          "amount": 5,
+          "id": 586,
+          "name": "Berserker Ring"
+        },
+        {
+          "amount": 50,
+          "id": 350,
+          "name": "Extreme Power Stone"
+        },
+        {
+          "amount": 250,
+          "id": 438,
+          "name": "Ring Fragments"
+        }
+      ]
     },
     "description": "Provides the benefits of the Eternal Ring with an added hefty damage bonus",
     "stats": {
@@ -2045,9 +2140,25 @@
     "category": "Ring",
     "rarity": "Secret Rare",
     "recipe": {
-      "level": "",
+      "level": "Level 124 Crafting",
       "yield": 1,
-      "ingredients": []
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 437,
+          "name": "Ring of Speed"
+        },
+        {
+          "amount": 25,
+          "id": 350,
+          "name": "Extreme Power Stone"
+        },
+        {
+          "amount": 50,
+          "id": 438,
+          "name": "Ring Fragments"
+        }
+      ]
     },
     "description": "Provides the benefits of the Ring of Speed and the Super Power Stone",
     "stats": {
