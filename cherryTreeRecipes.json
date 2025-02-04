@@ -2091,12 +2091,12 @@
       "yield": 1,
       "ingredients": [
         {
-          "amount": 5,
+          "amount": 3,
           "id": 492,
           "name": "Eternal Ring"
         },
         {
-          "amount": 5,
+          "amount": 3,
           "id": 586,
           "name": "Berserker Ring"
         },
