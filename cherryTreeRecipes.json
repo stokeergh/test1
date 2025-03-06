@@ -4,20 +4,20 @@
     "name": "Fragment of Secrets 4",
     "OfficialWiki": null,
     "category": "Crafting Material",
-    "rarity": "Mythical",
+    "rarity": "Secret Rare",
     "recipe": {
       "level": "",
       "yield": 1,
       "ingredients": []
     },
-    "description": "",
+    "description": "I can craft something with this",
     "stats": {
       "attack": 0,
       "strength": 0,
       "defence": 0,
       "health": 0,
       "heal": 0,
-      "value": 0,
+      "value": 1,
       "bowDamage": 0,
       "bowCrit": 0,
       "bowAccuracy": 0,
@@ -41,20 +41,20 @@
     "name": "Fragment of Secrets 3",
     "OfficialWiki": null,
     "category": "Crafting Material",
-    "rarity": "Mythical",
+    "rarity": "Secret Rare",
     "recipe": {
       "level": "",
       "yield": 1,
       "ingredients": []
     },
-    "description": "",
+    "description": "I can craft something with this",
     "stats": {
       "attack": 0,
       "strength": 0,
       "defence": 0,
       "health": 0,
       "heal": 0,
-      "value": 0,
+      "value": 1,
       "bowDamage": 0,
       "bowCrit": 0,
       "bowAccuracy": 0,
@@ -78,20 +78,20 @@
     "name": "Fragment of Secrets 2",
     "OfficialWiki": null,
     "category": "Crafting Material",
-    "rarity": "Mythical",
+    "rarity": "Secret Rare",
     "recipe": {
       "level": "",
       "yield": 1,
       "ingredients": []
     },
-    "description": "",
+    "description": "I can craft something with this",
     "stats": {
       "attack": 0,
       "strength": 0,
       "defence": 0,
       "health": 0,
       "heal": 0,
-      "value": 0,
+      "value": 1,
       "bowDamage": 0,
       "bowCrit": 0,
       "bowAccuracy": 0,
@@ -115,20 +115,20 @@
     "name": "Fragment of Secrets 1",
     "OfficialWiki": null,
     "category": "Crafting Material",
-    "rarity": "Mythical",
+    "rarity": "Secret Rare",
     "recipe": {
       "level": "",
       "yield": 1,
       "ingredients": []
     },
-    "description": "",
+    "description": "I can craft something with this",
     "stats": {
       "attack": 0,
       "strength": 0,
       "defence": 0,
       "health": 0,
       "heal": 0,
-      "value": 0,
+      "value": 1,
       "bowDamage": 0,
       "bowCrit": 0,
       "bowAccuracy": 0,
@@ -150,11 +150,11 @@
   {
     "id": 694,
     "name": "Ring of Secrets",
-    "OfficialWiki": "https://cherrytree.wiki/singleitem.php?itemId=587",
+    "OfficialWiki": null,
     "category": "Ring",
     "rarity": "Secret Rare",
     "recipe": {
-      "level": "Level 130 Crafting",
+      "level": "",
       "yield": 1,
       "ingredients": [
         {
@@ -166,7 +166,7 @@
           "amount": 1,
           "id": 696,
           "name": "Fragment of Secrets 2"
-        },       
+        },
         {
           "amount": 1,
           "id": 697,
@@ -176,7 +176,7 @@
           "amount": 1,
           "id": 698,
           "name": "Fragment of Secrets 4"
-        },       
+        },
         {
           "amount": 10,
           "id": 587,
@@ -190,7 +190,12 @@
       "strength": 1500,
       "defence": 1500,
       "health": 2500,
-      "value": 1
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
     },
     "isCraftable": true,
     "isEquipment": true,
@@ -206,24 +211,1424 @@
     "craftX": "NO"
   },
   {
-    "id": 638,
-    "name": "Enchancement Ticket",
+    "id": 693,
+    "name": "Soul Reaper Potion",
     "OfficialWiki": null,
-    "category": "Crafting Material",
+    "category": "Potion",
     "rarity": "Mythical",
     "recipe": {
       "level": "",
       "yield": 1,
-      "ingredients": []
+      "ingredients": [
+        {
+          "amount": 50,
+          "id": -1,
+          "name": null
+        },
+        {
+          "amount": 10000,
+          "id": -1,
+          "name": null
+        },
+        {
+          "amount": 25,
+          "id": -1,
+          "name": null
+        }
+      ]
     },
-    "description": "",
+    "description": "This will help me find Soul Gems and Soul Reaper gear",
     "stats": {
       "attack": 0,
       "strength": 0,
       "defence": 0,
       "health": 0,
       "heal": 0,
-      "value": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 692,
+    "name": "Scythe of Aurial (E5)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Scythe of Aurial",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 691,
+    "name": "Scythe of Aurial (E4)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Scythe of Aurial",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 690,
+    "name": "Scythe of Aurial (E3)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Scythe of Aurial",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 689,
+    "name": "Scythe of Aurial (E2)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Scythe of Aurial",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 688,
+    "name": "Bow of Kynosian (E5)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Bow",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 7000,
+      "bowCrit": 40,
+      "bowAccuracy": 100,
+      "bowSpeed": 800
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 687,
+    "name": "Bow of Kynosian (E4)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Bow",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 6500,
+      "bowCrit": 40,
+      "bowAccuracy": 95,
+      "bowSpeed": 800
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 686,
+    "name": "Bow of Kynosian (E3)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Bow",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 6000,
+      "bowCrit": 40,
+      "bowAccuracy": 95,
+      "bowSpeed": 800
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 685,
+    "name": "Bow of Kynosian (E2)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Bow",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 5500,
+      "bowCrit": 40,
+      "bowAccuracy": 95,
+      "bowSpeed": 1000
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 684,
+    "name": "Rod of Copina (E6)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 683,
+    "name": "Rod of Copina (E5)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 682,
+    "name": "Rod of Copina (E4)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 681,
+    "name": "Rod of Copina (E3)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 680,
+    "name": "Rod of Copina (E2)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 679,
+    "name": "Stethoscope of Copina",
+    "OfficialWiki": null,
+    "category": "Necklace",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A legendary stethoscope that helps out with Safecracking",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 50000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 678,
+    "name": "Lockpick of Copina",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A legendary lockpick that helps out with Safecracking",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 50000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 677,
+    "name": "Dark Elven Sword",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 20,
+          "id": 488,
+          "name": "Elven Sword"
+        },
+        {
+          "amount": 5000,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 2000,
+          "id": 490,
+          "name": "Elven Weapon Fragment"
+        },
+        {
+          "amount": 500,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A Mythical Sword crafted by the Dark Elves",
+    "stats": {
+      "attack": 3000,
+      "strength": 4500,
+      "defence": 3500,
+      "health": 15000,
+      "heal": 0,
+      "value": 10000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 676,
+    "name": "Dark Elven Plate",
+    "OfficialWiki": null,
+    "category": "Top",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 15,
+          "id": 483,
+          "name": "Elven Plate"
+        },
+        {
+          "amount": 5000,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 2000,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 500,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A piece of armour crafted by the Dark Elves",
+    "stats": {
+      "attack": 1250,
+      "strength": 1250,
+      "defence": 2500,
+      "health": 7500,
+      "heal": 0,
+      "value": 5000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 675,
+    "name": "Dark Elven Greaves",
+    "OfficialWiki": null,
+    "category": "Greaves",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 10,
+          "id": 484,
+          "name": "Elven Greaves"
+        },
+        {
+          "amount": 3500,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 1000,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 250,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A piece of armour crafted by the Dark Elves",
+    "stats": {
+      "attack": 750,
+      "strength": 750,
+      "defence": 1750,
+      "health": 5000,
+      "heal": 0,
+      "value": 5000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 674,
+    "name": "Dark Elven Boots",
+    "OfficialWiki": null,
+    "category": "Boots",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 487,
+          "name": "Elven Boots"
+        },
+        {
+          "amount": 2000,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 500,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 150,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A piece of armour crafted by the Dark Elves",
+    "stats": {
+      "attack": 300,
+      "strength": 300,
+      "defence": 1250,
+      "health": 3750,
+      "heal": 0,
+      "value": 1000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 673,
+    "name": "Dark Elven Gloves",
+    "OfficialWiki": null,
+    "category": "Gloves",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 486,
+          "name": "Elven Gloves"
+        },
+        {
+          "amount": 2000,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 500,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 150,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A piece of armour crafted by the Dark Elves",
+    "stats": {
+      "attack": 250,
+      "strength": 250,
+      "defence": 900,
+      "health": 2500,
+      "heal": 0,
+      "value": 1000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 672,
+    "name": "Dark Elven Helm",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 5,
+          "id": 485,
+          "name": "Elven Helm"
+        },
+        {
+          "amount": 2000,
+          "id": 469,
+          "name": "Elven Crystal"
+        },
+        {
+          "amount": 500,
+          "id": 489,
+          "name": "Elven Armour Fragment"
+        },
+        {
+          "amount": 150,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A piece of armour crafted by the Dark Elves",
+    "stats": {
+      "attack": 500,
+      "strength": 500,
+      "defence": 1500,
+      "health": 3500,
+      "heal": 0,
+      "value": 1000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 671,
+    "name": "Rod of Copina (E)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Rod of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 670,
+    "name": "Hatchet of Copina (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Hatchet of Copina",
+    "stats": {
+      "attack": 400,
+      "strength": 400,
+      "defence": 400,
+      "health": 400,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 669,
+    "name": "Pickaxe of Copina (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Pickaxe of Copina",
+    "stats": {
+      "attack": 400,
+      "strength": 400,
+      "defence": 400,
+      "health": 400,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 668,
+    "name": "Scythe of Noctyra (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "Filled with the power of darkness this legendary scythe once belonged to Noctyra the Goddess of Death",
+    "stats": {
+      "attack": 6500,
+      "strength": 9000,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 667,
+    "name": "Kynosian Top (E)",
+    "OfficialWiki": null,
+    "category": "Top",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Top",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 3000,
+      "health": 9000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 800,
+      "bowCrit": 20,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 666,
+    "name": "Kynosian Legs (E)",
+    "OfficialWiki": null,
+    "category": "Greaves",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Legs",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 2000,
+      "health": 6000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 650,
+      "bowCrit": 15,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 665,
+    "name": "Kynosian Hat (E)",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Hat",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1800,
+      "health": 4000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 500,
+      "bowCrit": 6,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 664,
+    "name": "Kynosian Gloves (E)",
+    "OfficialWiki": null,
+    "category": "Gloves",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Gloves",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1200,
+      "health": 3000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 350,
+      "bowCrit": 4,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 663,
+    "name": "Kynosian Boots (E)",
+    "OfficialWiki": null,
+    "category": "Boots",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Kynosian Boots",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1500,
+      "health": 4500,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 350,
+      "bowCrit": 3,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 662,
+    "name": "Knife of Copina (E)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Knife of Copina",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 661,
+    "name": "Old Fishing Rod (E)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "You can not beat a classic especially when it is enhanced",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 660,
+    "name": "Snowflake Partyhat",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "It appears to be party time",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 1500,
+      "health": 10000,
+      "heal": 0,
+      "value": 100000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 659,
+    "name": "Golden Cracker",
+    "OfficialWiki": null,
+    "category": "Treasure",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I can pull this to find an even sillier joke",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
       "bowDamage": 0,
       "bowCrit": 0,
       "bowAccuracy": 0,
@@ -231,6 +1636,805 @@
     },
     "isCraftable": false,
     "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 658,
+    "name": "Christmas Cracker",
+    "OfficialWiki": null,
+    "category": "Treasure",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I could pull this to find a silly joke",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 657,
+    "name": "Candy Cane Scythe",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "Sticky",
+    "stats": {
+      "attack": 100,
+      "strength": 200,
+      "defence": 150,
+      "health": 0,
+      "heal": 0,
+      "value": 500000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 656,
+    "name": "Blue Santa Hat",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Event Special",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "It appears to be blue",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 500,
+      "health": 2000,
+      "heal": 0,
+      "value": 10000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 655,
+    "name": "Energy Overload Scroll",
+    "OfficialWiki": null,
+    "category": "Skilling Scroll",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I have never felt power like this before",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 654,
+    "name": "Dark Thread",
+    "OfficialWiki": null,
+    "category": "Crafting Material",
+    "rarity": "Uncommon",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "I could use this to upgrade my slayer gear",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 653,
+    "name": "Old Fishing Rod",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "You can not beat a classic",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 500,
+      "heal": 0,
+      "value": 150000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 652,
+    "name": "Scythe of Noctyra",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "Filled with the power of darkness this legendary scythe once belonged to Noctyra the Goddess of Death",
+    "stats": {
+      "attack": 6500,
+      "strength": 9000,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 150000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 651,
+    "name": "Soul Reaper Sword",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Mythical",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "The ulatimate Sword of the Slayer Master",
+    "stats": {
+      "attack": 6000,
+      "strength": 8000,
+      "defence": 4500,
+      "health": 15000,
+      "heal": 0,
+      "value": 15000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 650,
+    "name": "Primal Sword",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Legendary",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 649,
+          "name": "Master Sword"
+        },
+        {
+          "amount": 100,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A Sword used by legendary slayers",
+    "stats": {
+      "attack": 2000,
+      "strength": 2500,
+      "defence": 1500,
+      "health": 1000,
+      "heal": 0,
+      "value": 1500000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 649,
+    "name": "Master Sword",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Super Rare",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": [
+        {
+          "amount": 1,
+          "id": 648,
+          "name": "Apprentice Sword"
+        },
+        {
+          "amount": 20,
+          "id": 654,
+          "name": "Dark Thread"
+        }
+      ]
+    },
+    "description": "A sword used by master slayers",
+    "stats": {
+      "attack": 750,
+      "strength": 1250,
+      "defence": 750,
+      "health": 500,
+      "heal": 0,
+      "value": 150000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": true,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 648,
+    "name": "Apprentice Sword",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Common",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A sword used by Apprentice Slayers",
+    "stats": {
+      "attack": 100,
+      "strength": 100,
+      "defence": 100,
+      "health": 50,
+      "heal": 0,
+      "value": 15000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 647,
+    "name": "Enhancement Ticket",
+    "OfficialWiki": null,
+    "category": "Currency",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "This ticket allows me to bless items making them more powerful",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": false,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 646,
+    "name": "Crown of Opulina",
+    "OfficialWiki": null,
+    "category": "Helm",
+    "rarity": "Treasure",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "A legendary Crown worn by Opulina the Goddess of Wealth",
+    "stats": {
+      "attack": 600,
+      "strength": 600,
+      "defence": 1200,
+      "health": 3000,
+      "heal": 0,
+      "value": 60000000,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 645,
+    "name": "Mystic Dagger (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Mystic Dagger",
+    "stats": {
+      "attack": 300,
+      "strength": 650,
+      "defence": 50,
+      "health": 50,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 644,
+    "name": "Sword of Feroxi (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Sword of Feroxi",
+    "stats": {
+      "attack": 5000,
+      "strength": 7000,
+      "defence": 4000,
+      "health": 15000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 643,
+    "name": "Bow of Kynosian (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Bow of Kynosian",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 5000,
+      "health": 10000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 5000,
+      "bowCrit": 40,
+      "bowAccuracy": 95,
+      "bowSpeed": 1000
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 642,
+    "name": "Ring of Souls (E)",
+    "OfficialWiki": null,
+    "category": "Ring",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Ring of Souls",
+    "stats": {
+      "attack": 100,
+      "strength": 100,
+      "defence": 100,
+      "health": 300,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 641,
+    "name": "Thieving Gloves (E)",
+    "OfficialWiki": null,
+    "category": "Gloves",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Thieving Gloves",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 640,
+    "name": "Necklace of Restoration (E)",
+    "OfficialWiki": null,
+    "category": "Necklace",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Necklace of Restoration",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 400,
+      "health": 1500,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 639,
+    "name": "Mystic Staff (E)",
+    "OfficialWiki": null,
+    "category": "Weapon",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Mystic Staff",
+    "stats": {
+      "attack": 2500,
+      "strength": 3000,
+      "defence": 2500,
+      "health": 15000,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
+    "chestLoot": [],
+    "findLocations": {
+      "Discovery": false,
+      "Firemaking": false,
+      "Fishing": false,
+      "Forestry": false,
+      "Mining": false,
+      "Thieving": false
+    },
+    "craftX": "NO"
+  },
+  {
+    "id": 638,
+    "name": "Scythe of Aurial (E)",
+    "OfficialWiki": null,
+    "category": "Blessing",
+    "rarity": "Blessed",
+    "recipe": {
+      "level": "",
+      "yield": 1,
+      "ingredients": []
+    },
+    "description": "An enhanced version of the Scythe of Aurial",
+    "stats": {
+      "attack": 0,
+      "strength": 0,
+      "defence": 0,
+      "health": 0,
+      "heal": 0,
+      "value": 1,
+      "bowDamage": 0,
+      "bowCrit": 0,
+      "bowAccuracy": 0,
+      "bowSpeed": 0
+    },
+    "isCraftable": false,
+    "isEquipment": true,
     "chestLoot": [],
     "findLocations": {
       "Discovery": false,
