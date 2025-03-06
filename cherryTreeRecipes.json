@@ -222,18 +222,18 @@
       "ingredients": [
         {
           "amount": 50,
-          "id": -1,
-          "name": null
+          "id": 322,
+          "name": "Liquid Death Potion"
         },
         {
           "amount": 10000,
-          "id": -1,
-          "name": null
+          "id": 105,
+          "name": "Gold Coin"
         },
         {
           "amount": 25,
-          "id": -1,
-          "name": null
+          "id": 654,
+          "name": "Dark Thread"
         }
       ]
     },
